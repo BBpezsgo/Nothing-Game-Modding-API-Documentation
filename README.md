@@ -1,3 +1,5 @@
+![](assets/logo.png)
+
 # Nothing 2 - Modding API Documentation
 
 ## How to load assets
