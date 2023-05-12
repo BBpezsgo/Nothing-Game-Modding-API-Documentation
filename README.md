@@ -1,6 +1,6 @@
 ![](assets/logo.png)
 
-# Nothing 2 - Modding API Documentation
+# [Nothing 2](https://banszky.itch.io/nothing-2) - Modding API Documentation
 
 ## How to load assets
 
